@@ -1,5 +1,5 @@
 ## Description
-This is the code Jack Dinsmore, a freshman at MIT, wrote during his 2017 summer UROP with Phil Harris and SangEon Park. 
+This is the code Jack Dinsmore, a freshman at MIT, wrote during his 2019 summer UROP with Phil Harris and SangEon Park. 
 
 The focus of this project is to compare the train time and time per inference of MNIST on CPUs, GPUs, and TPUs. In order to facilitate an accurate comparison, the code for each device must be as similar as possible, and the dataset uses must be the same for all devices. This is why we are writing our own implementations of MNIST.
 
