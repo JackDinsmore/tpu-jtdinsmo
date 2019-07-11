@@ -3,3 +3,4 @@ if [ "$#" = "0" ]; then
 else
     jupyter notebook --ip 127.0.0.1 --port $1 --no-browser
 fi
+
